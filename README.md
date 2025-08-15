@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Thomas Hatt and I'm a Computer Information Systems major.</h1>
+<h1 align="left">Hello 👋! My name is Thomas Hatt and I'm a Computer Science Major</h1>
 
 ###
 
