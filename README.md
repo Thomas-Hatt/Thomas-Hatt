@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-tau-five-67.vercel.app/api/top-langs/?username=Thomas-Hatt&langs_count=10" />
+  <img src="https://github-readme-stats-tau-five-67.vercel.app/api/top-langs/?username=Thomas-Hatt&langs_count=10&layout=compact" />
 </div>
 
 ---
