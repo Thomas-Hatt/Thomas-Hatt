@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there! I'm Thomas Hatt</h1>
+<h3 align="center">A Computer Science Major | Passionate about Data Analysis and Programming</h3>
 
-<!--
-**Thomas-Hatt/Thomas-Hatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats-tau-five-67.vercel.app/api/top-langs/?username=Thomas-Hatt&langs_count=10" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 About Me
+- 📔 Graduated with High Honors in Computer Information Systems
+- 💻 Currently studying Computer Science at the University of Michigan
+- 🌱 Working on the Google Data Analytics course
+
+### 🛠 Skills
+- **Languages:** Python, Java, C#, HTML/CSS
+- **Frameworks & Tools:** Bootstrap, .NET
+- **Interests:** Data Analysis, Web Design, Video Game Modding
+
+---
